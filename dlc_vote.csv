@@ -1,0 +1,6 @@
+id,name,email,student_id,faculty,department,level
+1,John Doe,john.doe@abu.edu.ng,12345,Engineering,Computer Science,300
+2,Jane Smith,jane.smith@abu.edu.ng,12346,Arts,English,200
+3,Michael Johnson,michael.johnson@abu.edu.ng,12347,Science,Biology,100
+4,Emily Davis,emily.davis@abu.edu.ng,12348,Engineering,Mechanical Engineering,400
+5,Chris Brown,chris.brown@abu.edu.ng,12349,Commerce,Accounting,200

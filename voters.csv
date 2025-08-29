@@ -1,0 +1,11 @@
+name,email,student_id,faculty,department,level
+Aminu Abdullahi,aminu.abdullahi@abu.ng,STU1001,Engineering,Electrical,400
+Zainab Musa,zainab.musa@abu.ng,STU1002,Social Sciences,Sociology,300
+Bashir Ibrahim,bashir.ibrahim@abu.ng,STU1003,Medicine,Pharmacy,200
+Hauwa Sani,hauwa.sani@abu.ng,STU1004,Education,Science Education,100
+Ibrahim Umar,ibrahim.umar@abu.ng,STU1005,Law,Law,500
+Fatima Ali,fatima.ali@abu.ng,STU1006,Business,Accounting,300
+Sadiq Suleiman,sadiq.suleiman@abu.ng,STU1007,Agriculture,Animal Science,200
+Aisha Yusuf,aisha.yusuf@abu.ng,STU1008,Arts,History,400
+Yahaya Abdulkadir,yahaya.abdulkadir@abu.ng,STU1009,Engineering,Civil,300
+Maryam Usman,maryam.usman@abu.ng,STU1010,Computer Science,Software Engineering,200
